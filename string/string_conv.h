@@ -1,5 +1,5 @@
-#ifndef 	__STIRNG_CONV__H
-#define		__STIRNG_CONV__H
+#ifndef __STIRNG_CONV__H
+#define	__STIRNG_CONV__H
 
 #include "plat_def.h"
 
